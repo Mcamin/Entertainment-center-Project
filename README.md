@@ -1,5 +1,3 @@
-# ud036_StarterCode
-
 ## Entertainment center Project for Udacity fullstack nanodegree written in python
 
 To execute The Programm:
